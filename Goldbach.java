@@ -5,7 +5,7 @@ public class main {
 	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-		long num, vx=0;
+		long num;
 		
 		ArrayList<Long> prime = new ArrayList<Long>();
 		
